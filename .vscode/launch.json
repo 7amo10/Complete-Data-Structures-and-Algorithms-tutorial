@@ -1,0 +1,177 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Array_Project",
+      "request": "launch",
+      "mainClass": "Array_Project",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "StackofPlates.StackofPlates.Main",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainCircularDoublyLinkedList",
+      "request": "launch",
+      "mainClass": "MainCircularDoublyLinkedList",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "AnimalShelter.Main",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainStackMin",
+      "request": "launch",
+      "mainClass": "MainStackMin",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main_ThreeInOne",
+      "request": "launch",
+      "mainClass": "Main_ThreeInOne",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainQueueLinkedList",
+      "request": "launch",
+      "mainClass": "Queue.MainQueueLinkedList",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainCircularQueue",
+      "request": "launch",
+      "mainClass": "Queue.MainCircularQueue",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainQueueArray",
+      "request": "launch",
+      "mainClass": "Queue.MainQueueArray",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "stackandqueue.Main",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main_Exercizes",
+      "request": "launch",
+      "mainClass": "stackandqueue.Main_Exercizes",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainStackLinkedList",
+      "request": "launch",
+      "mainClass": "stackandqueue.MainStackLinkedList",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BigO",
+      "request": "launch",
+      "mainClass": "Array_Big_O.BigO",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main_2",
+      "request": "launch",
+      "mainClass": "Array_Big_O.Main_2",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Mai",
+      "request": "launch",
+      "mainClass": "Mai",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "MainSinglyLinkedList",
+      "request": "launch",
+      "mainClass": "MainSinglyLinkedList",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Main_A",
+      "request": "launch",
+      "mainClass": "Main_A",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "Task_DSA",
+      "request": "launch",
+      "mainClass": "Task_DSA",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "type": "java",
+      "name": "sheet1",
+      "request": "launch",
+      "mainClass": "sheet1",
+      "projectName": "Java real data structures_5bff059"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/collage_documents/second_grade/first semester/Data Structures/Java real data structures",
+      "program": "d:/collage_documents/second_grade/first semester/Data Structures/Java real data structures/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
