@@ -1,4 +1,5 @@
-// package AnimalShelter;
+package AnimalShelter.AnimalShelter;
+
 public abstract class Animal {
   private int order;
   protected String name;

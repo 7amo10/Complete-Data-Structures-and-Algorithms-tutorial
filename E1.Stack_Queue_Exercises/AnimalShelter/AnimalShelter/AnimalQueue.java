@@ -1,4 +1,7 @@
+package AnimalShelter.AnimalShelter;
+
 import java.util.LinkedList;
+
 public class AnimalQueue {
   LinkedList<Dog> dogs = new LinkedList<Dog>();
   LinkedList<Cat> cats = new LinkedList<Cat>();
@@ -57,6 +60,7 @@ public class AnimalQueue {
   }
 
   // peek 
+
   public Animal peek() {
     if (dogs.size() == 0) {
       return cats.peek();
@@ -73,4 +77,6 @@ public class AnimalQueue {
       return cats.peek();
     }
   }
+
+
 }

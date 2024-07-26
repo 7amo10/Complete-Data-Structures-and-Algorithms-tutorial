@@ -1,4 +1,4 @@
-// package AnimalShelter;
+package AnimalShelter.AnimalShelter;
 
 class Main {
   public static void main(String[] args) {
@@ -10,8 +10,8 @@ class Main {
     animals.enqueue(new Dog("Dexter"));
 
     System.out.println(animals.dequeueAny().name());
-    System.out.println(animals.dequeueDogs().name());
-    System.out.println(animals.dequeueCats().name());
+    System.out.println(animals.dequeueAny().name());
+    System.out.println(animals.dequeueAny().name());
 		
   }
 }
