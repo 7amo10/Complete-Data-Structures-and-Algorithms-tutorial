@@ -1,7 +1,7 @@
 # Complete Data Structures and Algorithms tutorial💫🦅
 
 
-I am Ahmed Ashour and this repo is for learning deeply about data structures and algorithms from beginners in Java.
+I am Ahmed Ashour and this repo is for learning deeply about data structures and algorithms for beginners in Java.
 
 ![Screenshot](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ6ZGp2dmw1Nm1mMDN3djN4bDF6cnBseTRzeDZldWNkZ20xbjM2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Yg4GUVgIUg3bf7W/giphy.gif)
 ## Table of Contents
