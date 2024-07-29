@@ -1,3 +1,4 @@
+package StackofPlates.StackofPlates;
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 
@@ -55,5 +56,7 @@ public class SetOfStacks {
 
   public int popAt(int index) {
     return leftShift(index, true);
-  } 
+  }
+
+  
 }

@@ -1,4 +1,4 @@
-package AnimalShelter.AnimalShelter;
+package AnimalShelter;
 
 public abstract class Animal {
   private int order;

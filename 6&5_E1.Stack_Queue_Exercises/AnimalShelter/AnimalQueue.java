@@ -1,4 +1,4 @@
-package AnimalShelter.AnimalShelter;
+package AnimalShelter;
 
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package AnimalShelter.AnimalShelter;
+package AnimalShelter;
 
 public class Cat extends Animal {
   public Cat(String n) {

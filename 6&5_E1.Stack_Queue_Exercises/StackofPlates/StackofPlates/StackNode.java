@@ -1,3 +1,5 @@
+package StackofPlates.StackofPlates;
+
 public class StackNode {
   public StackNode above;
   public StackNode below;

@@ -1,3 +1,4 @@
+package Entry_Exercises;
 public class Main_ThreeInOne {
     public static void main(String[] args) {
         ThreeInOne newStacks = new ThreeInOne(3);

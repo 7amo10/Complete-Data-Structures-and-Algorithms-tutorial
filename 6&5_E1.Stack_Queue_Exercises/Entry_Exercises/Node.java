@@ -1,3 +1,5 @@
+package Entry_Exercises;
+
 public class Node {
   int value;
   Node next;
@@ -8,6 +10,5 @@ public class Node {
   }
 
 public Node() {
-    //TODO Auto-generated constructor stub
 }
 }

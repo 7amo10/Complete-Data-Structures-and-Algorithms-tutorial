@@ -1,3 +1,4 @@
+package StackofPlates.StackofPlates;
 import java.util.EmptyStackException;
 public class Stack {
   private int capacity;
@@ -26,6 +27,7 @@ public class Stack {
     join(newNode, top);
     top = newNode;
     return true;
+
   }
 
   public int pop() {
@@ -43,4 +45,6 @@ public class Stack {
     size--;
     return b.value;
   }
+
+
 }

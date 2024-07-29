@@ -1,3 +1,5 @@
+package Entry_Exercises;
+
 public class StackMin {
   Node top;
   Node min;

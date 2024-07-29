@@ -1,3 +1,5 @@
+package Entry_Exercises;
+
 public class ThreeInOne {
   private int numberOfStacks = 3;
   private int stackCapacity;

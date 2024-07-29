@@ -1,3 +1,5 @@
+package Entry_Exercises;
+
 public class MainStackMin {
     public static void main(String[] args) {
         StackMin stack = new StackMin();

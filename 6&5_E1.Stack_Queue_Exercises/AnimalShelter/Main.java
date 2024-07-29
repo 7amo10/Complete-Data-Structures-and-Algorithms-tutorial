@@ -1,4 +1,4 @@
-package AnimalShelter.AnimalShelter;
+package AnimalShelter;
 
 class Main {
   public static void main(String[] args) {
