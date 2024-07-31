@@ -1,8 +1,8 @@
-public class Stack_All {
+public class Stack_Array {
   int[] arr;
   int topOfStack;
 
-  public Stack_All(int size) {
+  public Stack_Array(int size) {
     this.arr = new int[size];
     this.topOfStack = -1;
     System.out.println("The Stack is created with size of: " + size);

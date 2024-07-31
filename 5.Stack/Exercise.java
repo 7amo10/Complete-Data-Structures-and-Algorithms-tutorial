@@ -1,3 +1,10 @@
+/*
+ ! Balanced Parentheses Checker
+ * Balanced Parentheses Checker
+ * Given an expression string, write a Java program to check whether the parentheses in the expression are balanced or not. 
+ * The types of parentheses to consider are curly {}, square [], and round ().
+ * Hint: Using stacks for parsing and balancing symbols. 
+ */
 import java.util.Stack;
 
 public class Exercise {

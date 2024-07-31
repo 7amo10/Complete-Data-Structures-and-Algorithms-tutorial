@@ -1,3 +1,6 @@
+/*
+ * Implementing basic Stack operations
+ */
 public class Stack {
     private Node top;
     public int height;

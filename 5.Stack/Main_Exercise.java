@@ -1,4 +1,4 @@
-public class Main {
+public class Main_Exercise {
     public static void main(String[] args) {
         String[] testExpressions = {
             "()", // Balanced
