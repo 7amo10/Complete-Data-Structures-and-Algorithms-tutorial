@@ -1,4 +1,4 @@
-## Fast cover on Tree & Binary Tree for this tutorial
+# Fast cover on Tree & Binary Tree for this tutorial
 
 Here in this topic Tree is so important to learn as it is used for illustrating the problem in Tree format.
 
