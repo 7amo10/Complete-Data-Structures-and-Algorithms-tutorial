@@ -52,16 +52,16 @@ So, what about when to use Stack or avoid it?
 
 ![Screenshot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/5.Stack/assests/9.Use%26Avoid.png)
 
-To practice on the Binary Tree topic:
+**To practice on the Binary Tree topic:**
 
-Stack_Array.java and its main file => holds all basic operations of Stack using Array
+- Stack_Array.java and its main file => holds all basic operations of Stack using Array
 
-Node, LinkedList, StackLinkedList, and its main => all contain basic operations of Stack using LinkedList
+- Node, LinkedList, StackLinkedList, and its main => all contain basic operations of Stack using LinkedList
 
-For having exercises:
+**For having exercises:**
 
-Stack.java => holds basic operations that are implemented in different manner using Array
+- Stack.java => holds basic operations that are implemented in different manner using Array
 
-Exercise.java and its main file => hold a specific application on Stack
+- Exercise.java and its main file => hold a specific application on Stack
 
 Feel free when you open this README file to read or listen for a good tutorial for this topic then review this article and finally try with the questions.
