@@ -4,12 +4,12 @@ Here in this topic Tree is so important to learn as it is used for illustrating 
 
 ![Screenshot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/8.Tree_BinaryTree/assests/1.What%20is%20Tree.png)
 
-And here is the structure of Tree to know a full knowledge of it.
+And here is the structure of the Tree to know a full knowledge of it.
 
-### **why Tree?**
+### **Why Tree?**
 - Quicker and Easier access to the data
-- Store hierarchical data, like folder structure, organization structure, XML/HTML data.
-- There are many different types of data structures which performs better in various situations
+- Store hierarchical data, like folder structure, organization structure, and XML/HTML data.
+- Many different types of data structures perform better in various situations
 - Binary Search Tree, AVL, Red Black Tree, Trie
   
 ![Screenshot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/8.Tree_BinaryTree/assests/2.Tree%20Terminology.png)
@@ -26,7 +26,7 @@ As an example, the file NodeTree demonstrates this very well.
 
 ### **Why Binary Tree?**  
 - Binary trees are a prerequisite for mode advanced trees like BST, AVL, Red Black Trees
-- Huffman coding problem , heap priority problem and expression parsing problems can be solved
+- Huffman coding problems, heap priority problems, and expression parsing problems can be solved
 - efficiently using binary trees,
 
 It is a specific form of Tree that we will discuss in detail:
@@ -41,7 +41,7 @@ It is a specific form of Tree that we will discuss in detail:
 
 ![Screenshot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/8.Tree_BinaryTree/assests/4.4.Balanced%20Binary%20Tree.png)
 
-These are the types of Binary Tree that we use and now it's time for constructing  
+These are the types of Binary Tree that we use and now it's time to construct  
 the creation form of Binary Tree using **LinkedList** and **Array** 
 
 ### First: Using **LinkedList**
@@ -108,7 +108,7 @@ we will discuss how to perform basic operations on Tree LinkedList in practice l
 As you can see the implementation of Tree using Array is different from LinkedList as the fixed size of the array
 so, we follow these mathematical calculations from index 1 not index 0 due to complex mathematical problems.
 
-2. Traverse nodes is same for linkedList as concept but different in implementation
+2. Traverse nodes are the same for linkedList as a concept but different in implementation
 
 3.Insert a node
 
@@ -127,13 +127,13 @@ so, we follow these mathematical calculations from index 1 not index 0 due to co
 
 Steps=> arr = Null
 
-Then finaly let's compare the time and space complexity for Tree using (LinkedList and Array)
+Then finally let's compare the time and space complexity for Tree using (LinkedList and Array)
 
 ![Screenshot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/8.Tree_BinaryTree/assests/13.Complexity.png)
 
-To practise on the Binary Tree topic:
+To practice on the Binary Tree topic:
 - BinaryNode.java=> holds the initial directions for nodes
-- BinaryTreeLL.java=> holds all basic operations of LinkedListTree and Main_BinaryTree for run all methods
-- BinaryTree.java=> holds all basic operations of arrayTree MainBinaryTree for run all methods
+- BinaryTreeLL.java=> holds all basic operations of LinkedListTree and Main_BinaryTree for running all methods
+- BinaryTree.java=> holds all basic operations of arrayTree MainBinaryTree for running all methods
 
-Feel free and when you open this README file read or listen for a good tutorial for this topic then review on this article and finnaly try with the questions.
+Feel free when you open this README file to read or listen for a good tutorial for this topic then review this article and finally try with the questions.
