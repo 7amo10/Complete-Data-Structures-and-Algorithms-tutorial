@@ -69,6 +69,10 @@ detailed in the Coding files that we will demonstrate below.
 ### Binary Search Tree - Delete Entire Tree
 - root = null
 
+### Binary Search Tree - Time and Space Complexity
+
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/9.Binary_Search_Tree/assests/5.Complexity.png)
+
 #### To practice on the Binary Tree topic:
 
 BinaryNode.java=> holds the initial directions for nodes.
