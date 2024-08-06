@@ -1,4 +1,4 @@
-# Fast cover on Tree & Binary Search Tree for this tutorial
+# Fast cover on Binary Search Tree for this tutorial
 
 In this Section, we are going to discuss the BST (Binary Search Tree)
 
