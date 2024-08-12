@@ -54,23 +54,23 @@ Then let's dive into Collision first this is its types:
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/10.DoubleProbing.png)
 
-Each of these types are explained in detail in coading section 
+Each of these types is explained in detail in the coding section 
 
-So, before we discuss pros and cons of Hashing let's talk about if the Hash Table is Full?!
+So, before we discuss the pros and cons of Hashing let's talk about if the Hash Table is Full?!
 
-This question is answered in the situation of Direct Chaining and Open addressing
+This question is answered in the situation of Direct Chaining and open-addressing
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/11.1.Pros&Cons.png)
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/11.2.Pros&Cons.png)
 
-As you can see this situation never acts like an horrible obstacle as the 2 types deals with their way and this is clear in the coding section.
+As you can see this situation never acts like a horrible obstacle as the 2 types deal with their way and this is clear in the coding section.
 
 ### Pros and Cons of Collision Resolution Techniques
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/11.3.Pros&Cons.png)
 
-This is the summary of the Hashing's Pros and Cons and ideal use of them in proper situation. 
+This is the summary of Hashing's Pros and Cons and the ideal use of them in the proper situation. 
 
 ### Practical Use of Hashing
 
@@ -78,11 +78,11 @@ This is the summary of the Hashing's Pros and Cons and ideal use of them in prop
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/12.2.Use.png)
 
-Finally this is a comparison between Hashing and other DS in Time Complexity:
+Finally, this is a comparison between Hashing and other DS in Time Complexity:
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/13.Hashing&DS.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/13.Hashing/assests/13.HashingvsDS.png)
 
-And we conclude that Hashing is more suitable for specific cases that require it like use practical we discussed above 
+We conclude that Hashing is more suitable for specific cases that require it like the use practicals we discussed above 
 
 **To practice on the Binary Tree topic:**
 
