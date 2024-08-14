@@ -274,15 +274,15 @@ There is a reverse method for traversal as the previous direction
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.1.DeleteCD.png)
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/20.2.DeleteCD.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.2.DeleteCD.png)
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/20.3.DeleteCD.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.3.DeleteCD.png)
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/20.4.DeleteCD.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.4.DeleteCD.png)
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/20.5.DeleteCD.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.5.DeleteCD.png)
 
-![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/20.6.DeleteCD.png)
+![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/26.6.DeleteCD.png)
 
 To summarize the Deletion methodology, we begin with the 3 cases that face us when deleting nodes and then 
 combine them into one simple flowchart to demonstrate the whole technique taken for deleting nodes in CircularDoublyLinkedList.
@@ -295,7 +295,7 @@ combine them into one simple flowchart to demonstrate the whole technique taken 
 
 ![ScreenShot](https://github.com/7amo10/Complete-Data-Structures-and-Algorithms-tutorial/blob/main/4.LinkedList/assests/28.ArrayvsLinkedList.png)
 
-*To practice on the DoublyLinkedList topic:*
+**To practice on the DoublyLinkedList topic:**
 
 DoublyNode.java=> holds the initial directions for nodes
 
