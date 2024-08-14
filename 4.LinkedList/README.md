@@ -1,4 +1,4 @@
-`# Fast cover on LinkedList for this tutorial
+# Fast cover on LinkedList for this tutorial
 
 In this Section, we are going to discuss the most important data structure in real life in my opinion and this is its definition:
 
